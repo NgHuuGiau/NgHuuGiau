@@ -7,7 +7,8 @@ Xây dựng các giải pháp Backend hiệu quả và hệ thống quản lý t
 
 ## 📚 Hồ sơ học vấn
 
-**Viện Đào tạo Quốc tế (NIIE), Đại học Nguyễn Tất Thành** Chuyên ngành: Công nghệ Thông tin - Kỹ thuật Phần mềm
+**Viện Đào tạo Quốc tế (NIIE), Đại học Nguyễn Tất Thành**  
+Công nghệ Thông tin - Kỹ sư Phần mềm
 
 ---
 
