@@ -1,23 +1,23 @@
-# 👋 Hello! I'm **Nguyễn Hữu Giàu**
-### 🚀 Software Engineer | Web Developer
+# 👋 Xin chào! Tôi là **Nguyễn Hữu Giàu**
+### 🚀 Kỹ sư Phần mềm | Web Developer
 
-I'm a software engineer who builds **web applications** and **backend systems** with a focus on **user experience**.  
-I believe great software isn't just powerful — it's also **easy and enjoyable to use**.
+Tôi là kỹ sư phần mềm chuyên xây dựng **ứng dụng web** và **hệ thống backend** với trọng tâm là **trải nghiệm người dùng**.  
+Tôi tin rằng phần mềm tốt không chỉ mạnh mẽ — mà còn phải **dễ sử dụng và thân thiện** với người dùng.
 
-I turn ideas into clean, working products that people actually love to use.
-
----
-
-## 📚 Education
-
-**🎓 NIIE — Nguyễn Tất Thành University**  
-*Information Technology — Software Engineering*
+Tôi biến ý tưởng thành những sản phẩm sạch sẽ, hoạt động tốt mà mọi người thực sự thích dùng.
 
 ---
 
-## 💼 What I Do
+## 📚 Học vấn
 
-### 🛠️ Languages
+**🎓 Viện Đào tạo Quốc tế (NIIE) — Đại học Nguyễn Tất Thành**  
+*Công nghệ Thông tin — Kỹ sư Phần mềm*
+
+---
+
+## 💼 Kỹ năng
+
+### 🛠️ Ngôn ngữ
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
@@ -25,7 +25,7 @@ I turn ideas into clean, working products that people actually love to use.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 
-### 🧩 Frameworks & Libraries
+### 🧩 Framework & Thư viện
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -34,7 +34,7 @@ I turn ideas into clean, working products that people actually love to use.
 <img src="https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat&logo=python&logoColor=white" alt="SQLAlchemy" />
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="Pytest" />
 
-### 🧰 Tools & Platforms
+### 🧰 Công cụ & Nền tảng
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
@@ -45,13 +45,13 @@ I turn ideas into clean, working products that people actually love to use.
 
 ---
 
-## 📬 Let's Connect
+## 📬 Kết nối với tôi
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/HuuGiau.2304)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nguyen_huugiau/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:HuuGiau2304@gmail.com)
 
-> 💬 *Have a project or idea? Let's build something great together!*
+> 💬 *Có dự án hay ý tưởng? Cùng nhau xây dựng điều gì đó tuyệt vời nhé!*
 
 ---
 
@@ -60,5 +60,5 @@ I turn ideas into clean, working products that people actually love to use.
 </div>
 
 <div align="right">
-  <a href="README.vi.md"><b>Tiếng Việt</b></a>
+  <a href="README.md"><b>English</b></a>
 </div>
